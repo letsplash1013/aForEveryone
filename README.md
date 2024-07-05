@@ -22,3 +22,18 @@
 ```bash
 git clone https://github.com/yourusername/aForEveryone.git
 cd aForEveryone
+Open Chrome Extensions Page:
+```
+Open Google Chrome.
+Type chrome://extensions/ in the address bar and press Enter.
+Enable Developer Mode:
+
+In the top right corner of the Extensions page, toggle on "Developer mode."
+Load Unpacked Extension:
+
+Click the "Load unpacked" button.
+In the dialog that appears, navigate to and select your extension's folder.
+Verify Installation:
+
+Your extension should now appear in the list on the Extensions page.
+Check for any errors or warnings that may appear. If there are any, you may need to debug your code.

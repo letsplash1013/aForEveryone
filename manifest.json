@@ -1,0 +1,17 @@
+{
+  "manifest_version":3,
+  "name": "AforEveryone",
+  "version": "1.0.0",
+  "description": "Everyone deserves an A for the -tism",
+  "content_scripts": [
+    {
+    "matches": ["<all_urls>"],
+    "js": ["Content.js"]
+    }
+  ],
+  "icons": {
+    "128": "logo.png"
+  },
+  "incognito": "split"
+}
+
